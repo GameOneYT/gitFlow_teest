@@ -1,2 +1,2 @@
-def get_data():
-    return [1, 2, 3, 4]
+def show_data(data):
+    print(data)
